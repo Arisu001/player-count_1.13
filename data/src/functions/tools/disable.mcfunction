@@ -8,6 +8,7 @@ scoreboard objectives remove p.leave
 scoreboard objectives remove err.var
 scoreboard objectives remove set.x_player
 scoreboard objectives remove help
+scoreboard objectives remove prev.gm
 tag @a remove edit
 tag @a remove error
 tag @a remove joined
