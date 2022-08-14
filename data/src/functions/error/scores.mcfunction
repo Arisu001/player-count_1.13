@@ -1,3 +1,6 @@
+scoreboard players set $bin_0 map.const 501
+scoreboard players set $bin_1 map.const 505
+scoreboard players set $bin_2 map.const 509
 scoreboard players set %init map.const 0
 scoreboard players operation %online map.value = %x.player map.const
 scoreboard players operation %more.player map.value = %init map.const
