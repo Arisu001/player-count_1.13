@@ -1,6 +1,6 @@
 #═════════════════[ Player Count ]═════════════════#
 
-> Ver_: 1.4.2
+> Ver_: 1.4.7
 > Language: French
 
 > Solo: Accepted ✔

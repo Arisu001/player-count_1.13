@@ -1,1 +1,1 @@
-kick @s "Serveur complet! Réessayé plus tard"
+kick @s "Serveur complet! Réessayer plus tard"

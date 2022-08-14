@@ -1,2 +1,3 @@
 scoreboard players enable @s help
-execute as @s[scores={help=1..}] run function src:trigger/help/info
+tellraw @s[scores={help=1..}] [{"text": "[", "color": "white"}, {"text": "Help", "color": "green"}, {"text": "] "}, {"text": "> ", "color": "yellow"}, {"selector": "@s", "color": "aqua"}, {"text": ", pour pouvoir modifier le nombre de joueurs maximum, fait/cliquer sur ", "color": "gray"}, {"text": "/tag @s add edit", "clickEvent": {"action": "suggest_command", "value": "/tag @s add edit"}, "hoverEvent": {"action": "show_text", "value": "Permets de vous\najouter le tag \"edit\""}, "color": "gold", "underlined": true}, {"text": " add/set <nombre>", "color": "gray"}]
+scoreboard players reset @s help
