@@ -6,7 +6,7 @@
 > Solo: Accepted ✔
 > Multi: Accepted ✔
 
-> Version: 1.19+
+> Version: 1.13 to 1.18.2 (1.19+ = Some commands will not work!)
 > Created by: Arisu001
 
 
