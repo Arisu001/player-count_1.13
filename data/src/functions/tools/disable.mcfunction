@@ -16,4 +16,4 @@ tag @a remove owner
 
 bossbar remove src:online
 
-datapack disable "file/Player Count ✔"
+datapack disable "file/player-count_1.13"
