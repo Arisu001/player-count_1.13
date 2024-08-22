@@ -56,4 +56,4 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 
 
 <!-- Links -->
-[code-of-conduct]: https://github.com/Arisu001/player-count_1.13/blob/main/CODE_OF_CONDUCT.md
+[code-of-conduct]: https://github.com/Arisu001/player-count_1.13/blob/master/CODE_OF_CONDUCT.md
